@@ -86,7 +86,7 @@ cd ShiftHunterProject
 
 ```
 
-2. ** (Optional but Recommended) Create a Virtual Environment **
+2. **(Optional but Recommended) Create a Virtual Environment**
 
 It is recommended to create a Python virtual environment to avoid dependency conflicts with other projects.
 
@@ -95,7 +95,7 @@ python -m venv venv
 
 ```
 
-3. ** Install Required Dependencies **
+3. **Install Required Dependencies**
 
 ```bash
 
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
 ```
 
-4. **  Run the Streamlit App **
+4. **Run the Streamlit App**
 
  ```bash
 
@@ -111,5 +111,5 @@ streamlit run app/Shift_Hunter.py
 
 ```
 
-5. ** Open the Application in Your Browser **
+5. **Open the Application in Your Browser**
 
