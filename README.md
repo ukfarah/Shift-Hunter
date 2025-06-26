@@ -70,7 +70,7 @@ ShiftHunterProject/
 
 ## 📸 Screenshot
 
-![Shift Hunter Screenshot]![WhatsApp Image 2025-06-22 at 14 59 04_45dcce8b](https://github.com/user-attachments/assets/39fa84f0-5d28-4e11-bace-c3f7f21ccada) <!-- Replace with actual path when uploading -->
+![WhatsApp Image 2025-06-22 at 14 59 04_45dcce8b](https://github.com/user-attachments/assets/39fa84f0-5d28-4e11-bace-c3f7f21ccada) <!-- Replace with actual path when uploading -->
 
 ---
 
@@ -84,4 +84,32 @@ Follow these simple steps to run Shift Hunter locally:
 git clone https://github.com/yourusername/ShiftHunter.git
 cd ShiftHunterProject
 
+```
+
+2. ** (Optional but Recommended) Create a Virtual Environment **
+
+It is recommended to create a Python virtual environment to avoid dependency conflicts with other projects.
+
+```bash
+python -m venv venv
+
+```
+
+3. ** Install Required Dependencies **
+
+```bash
+
+pip install -r requirements.txt
+
+```
+
+4. **  Run the Streamlit App **
+
+ ```bash
+
+streamlit run app/Shift_Hunter.py
+
+```
+
+5. ** Open the Application in Your Browser **
 
