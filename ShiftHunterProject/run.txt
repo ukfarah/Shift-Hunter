@@ -1,0 +1,3 @@
+-cd ShiftHunterProject
+-streamlit run app/app.py
+tree /F
