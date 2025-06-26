@@ -38,12 +38,14 @@ Your task: Crack the shift and figure out the original word! (Spoiler: It’s **
 
 The project follows a modular structure for clarity and scalability:
 
+```bash
+
 ShiftHunterProject/
 ├── app/
 ├── caesar_cipher/
 ├── requirements.txt
 └── run.txt
-
+```
 
 ---
 
